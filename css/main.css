@@ -3,15 +3,14 @@
 @import url('https://fonts.googleapis.com/css?family=Chicle');
 
 .navbar ul li a{
-background-color:#4c4c4c;
+background-color:#151837;
 }
-
 
 .navbar ul li a:hover{background:blue;
 color:#00BFFF		;
-transition-duration:0.7s;
--webkit-transition-duration:0.5;
-box-shadow:inset 0 0 25px blue;
+transition-duration:0.9s;
+-webkit-transition-duration:0.7;
+box-shadow:inset 0 0 15px black;
 }
 .navbar li{
 	font-family: 'Chicle', cursive;
@@ -26,7 +25,7 @@ font-family: 'Chicle', cursive;
 font-size:25px;
 font-weight:600i;
 		color:#2c82c9;
-		padding:25px 20px;
+		padding:22px 40px;
 	}
 .carousel-caption{
 	top:60px!important;
@@ -106,6 +105,4 @@ font-weight:400i;
     }
     
 }
-
-
 
